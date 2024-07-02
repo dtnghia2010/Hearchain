@@ -1,0 +1,3 @@
+[dependencies.std]
+features = ["panic_unwind"]
+stage = 0
